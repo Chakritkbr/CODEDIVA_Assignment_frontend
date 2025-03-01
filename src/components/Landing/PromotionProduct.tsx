@@ -3,11 +3,6 @@ import ProductCard from '../ProductComponent/ProductCard';
 
 const mockProducts = [
   {
-    imageUrl: '/assets/promotion_product_1.jpg',
-    price: 199,
-    title: '1 ไอศกรีม ควอท 199 บาท สำหรับลูกค้าทุกท่าน',
-  },
-  {
     imageUrl: '/assets/promotion_product_2.jpeg',
     price: 499,
     title: '1 ไอศกรีม ควอท 199 บาท สำหรับลูกค้าทุกท่าน',

@@ -100,15 +100,15 @@ const page = () => {
                   <span className='text-body-md-regular'>
                     มีบัญชีสมาชิกอยู่แล้วใช่หรือไม่
                   </span>
-                  <a
+                  <Link
                     className='relative max-w-full cursor-pointer space-x-8 font-semibold disabled:cursor-not-allowed disabled:fill-text-disabled disabled:text-text-disabled h-[32px]  py-8 text-title-sm-medium leading-[18px] rounded-sm fill-text-link !px-4 text-text-link hover:bg-state-layer-primary-hovered focus:bg-state-layer-primary-focussed disabled:bg-transparent'
                     tabIndex={0}
-                    href='/th/login'
+                    href='/login'
                   >
                     <div className='flex items-center justify-center'>
                       เข้าสู่ระบบ
                     </div>
-                  </a>
+                  </Link>
                 </div>
               </section>
             </div>

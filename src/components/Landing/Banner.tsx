@@ -24,7 +24,7 @@ const Banner = () => {
                 data-nimg={1}
                 className='object-fit aspect-[3/1] w-full rounded-md sm:aspect-[4/1] 2xl:rounded-2xl'
                 sizes='(max-width: 640px) 100vw, (max-width: 768px) 50vw, 1280px'
-                src='/assets/landing_banner.jpg'
+                src='/assets/banner.jpeg'
                 style={{ color: 'transparent' }}
               />
             </div>
